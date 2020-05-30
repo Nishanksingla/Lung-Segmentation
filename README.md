@@ -13,5 +13,7 @@ Data Channels in Sagemaker
 
 
 ## Inferencing Results on a small test data set:
-<img src="predictions.png" width=4000/>
+<img src="predictions.png"/>
+
+<img src="predictions2.png"/>
 
