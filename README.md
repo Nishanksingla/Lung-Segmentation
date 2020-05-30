@@ -14,6 +14,6 @@ Data Channels in Sagemaker
 <b>SM_CHANNEL_EVAL</b>: For validation data set, the path is `/opt/ml/input/data/eval`
 
 
-## Inferencing Results on a small data set:
+## Inferencing Results on a small test data set:
 <img src="predictions.png" width=4000/>
 
