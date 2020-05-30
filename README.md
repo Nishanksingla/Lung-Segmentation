@@ -3,9 +3,7 @@ Lung segmentation on chest x-rays using UNet, UNet-ResNet architectures written 
 
 Training is done on AWS Sagemaker. The data is divided randomly into train and validation sets and was stored in S3. 
 
-Dataset Used:
-
-http://openi.nlm.nih.gov/imgs/collections/NLM-MontgomeryCXRSet.zip from website https://lhncbc.nlm.nih.gov/publication/pub9931
+Dataset Used: https://lhncbc.nlm.nih.gov/publication/pub9931
 
 Data Channels in Sagemaker
 
