@@ -12,3 +12,7 @@ Data Channels in Sagemaker
 <b>SM_CHANNEL_TRAIN</b>: For training data set, the path is `/opt/ml/input/data/train`
 
 <b>SM_CHANNEL_EVAL</b>: For validation data set, the path is `/opt/ml/input/data/eval`
+
+
+## Inferencing Results on a small data set:
+![](predictions.png)
